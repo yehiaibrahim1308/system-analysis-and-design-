@@ -17,7 +17,7 @@ The design platform is conceived to transform the way individuals discover, sele
     frames, or for digital use.
   - Transaction Processing: Payments are securely processed through the platform, ensuring a streamlined and efficient transaction process for buyers.
   - Artist Compensation: Following the completion of a purchase, the platform orchestrates the transfer of funds to the artist, ensuring they are fairly compensated for their creative contributions.
-  - 
+    
   # Current Status:
 
 The project has successfully completed the analysis phase, which includes the development of the Entity-Relationship Diagram (ERD) and Data Flow Diagrams (DFD) up to Level 3. The next step involves transitioning to the implementation phase. This phase will focus on developing a website based on the established database blueprint, integrating the database with the user interface, and ensuring all functionalities are aligned with the platform's requirements.
