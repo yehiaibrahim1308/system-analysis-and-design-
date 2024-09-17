@@ -20,4 +20,8 @@ The design platform is conceived to transform the way individuals discover, sele
     
   # Current Status:
 
-The project has successfully completed the analysis phase, which includes the development of the Entity-Relationship Diagram (ERD) and Data Flow Diagrams (DFD) up to Level 3. The next step involves transitioning to the implementation phase. This phase will focus on developing a website based on the established database blueprint, integrating the database with the user interface, and ensuring all functionalities are aligned with the platform's requirements.
+The project has successfully reached the conclusion of the analysis phase, which included the comprehensive development of the Entity-Relationship Diagram (ERD) and Data Flow Diagrams (DFD) up to Level 3. These diagrams provide a robust framework for understanding the data interactions and workflows within the platform.
+
+The next critical phase of the project is the implementation phase. This stage will focus on the construction of a fully functional website based on the meticulously designed database blueprint. It will involve the integration of the database with a user-centric interface, ensuring a seamless and intuitive user experience. This phase is pivotal in translating the conceptual design into a tangible, operational platform that adheres to the established requirements and provides a high-quality experience for both artists and buyers.
+
+
