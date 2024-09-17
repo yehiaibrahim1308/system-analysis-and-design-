@@ -28,27 +28,22 @@ The Entity-Relationship Diagram (ERD) provides a comprehensive visual representa
 
 ![Phase 3   5-erd drawio](https://github.com/user-attachments/assets/825b66bd-5936-4a45-95ca-9f5f320bb3c0)
 
-## dfd
+## DFD
 A Data Flow Diagram (DFD) visually maps the flow of data through a system, illustrating interactions between processes, data stores, and external entities.
 
-### dfd level-0 
+### DFD level-0 
 Purpose: Shows the entire system as a single process and its interactions with external entities.
  
 ![Phase 3   5-Level 0 drawio](https://github.com/user-attachments/assets/f5a93f31-1bf1-4d81-bcdf-c1fee93cd31c)
 
-### dfd level-1 
+### DFD level-1 
 Purpose: Breaks down the Level-0 process into detailed subprocesses, illustrating data flows between them and data stores.
 
 ![Phase 3   5-Level 1 drawio](https://github.com/user-attachments/assets/ddbf7aeb-3da0-4ca0-997d-16f6ad427572)
-###  dfd level-2 
+###  DFD level-2 
 Purpose: Provides a detailed view of individual subprocesses from Level-1, showing internal data flows and interactions.
 
 ![Phase 3   5-Level 2 drawio](https://github.com/user-attachments/assets/4f2b1b1b-634f-4199-88be-e0be3d328cde)
-
-
-
-
-
 
 
 
