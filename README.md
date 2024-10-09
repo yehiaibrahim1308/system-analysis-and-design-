@@ -5,7 +5,7 @@ The design platform is conceived to transform the way individuals discover, sele
  
  
 # Platform workflow 
-
+ 
 ## Artists/Designers:
   - Design Submission: Artists and designers are empowered to upload and curate an extensive collection of their creative designs on the platform. This functionality enables them to showcase their work to a 
   global audience.
