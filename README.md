@@ -1,6 +1,6 @@
 # System analysis 
 The design platform is conceived to transform the way individuals discover, select, and acquire designs for a myriad of applications, ranging from personalized clothing and accessories to bespoke wall art and digital assets for websites and applications. This platform is meticulously crafted to cater to two primary user roles: Artists/Designers and Buyers.
-
+ 
   
    
 # Platform workflow 
